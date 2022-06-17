@@ -1,0 +1,88 @@
+<html>
+    <head>
+        <title>John Vu Hire Me!</title>
+    </head>
+    <body>
+        <h1>John Vu</h1>
+        <img src="https://mail.google.com/mail/u/0?ui=2&ik=07297e98dd&attid=0.3&permmsgid=msg-a:r-52005100773505642&th=1816d7614cbdbc9a&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ91wzrlqQuokvON8Z2Bzf_vU4szkIeTqZhp0XovGlTPfVjLHj6tKJpTZjycu9Alah7cdyFnD86K5u-ossvLzBKq8SXSjoKUK_Y_TVIBBeJ-BjYZElOwpkfeMSk&disp=emb&realattid=1816d76022dea94a6633">
+
+        <h4>He/him</h4>
+        <p>Incoming Junior</p>
+
+        <h2>Skills</h2>
+        <p>Determined, Extremely Adaptable, Proficient at Public Speaking, Social, Problem Solver, Entreprenur</p>
+        <p>Knowledgeable in Vex, Roboticics Manufacturing Software, Robotics Manufacturing, </p>
+
+        <h2>Accomplishments</h2>
+        <p>I've participated in a anti-bullying program, won first in the regional science fair, 4.0 gpa student, scored 1120 on the PSAT, and boothed a table representing Newtech's robotic class.</p>
+
+        <h2>About Me</h2>
+        <p>desires to attend MIT to get a prestigious degree, but to also get the knowledge and experience to build things and be generally smart. I want to make a significant impact on the world and help people.</p>
+        <p>sees himself in the future as some sort of engineer working and innovating renewable, clean technology that’s accessible and efficient </p>
+        <p>Is inspired by the knowledge that I can make a difference for those who are suffering combined with ambitions to become a prominent figure.</p>
+        <p>His passions are Engineering, Science, and Coding. Anything’s that involves technology </p>
+        <p>John came from a lower middle class family that worked harrd off to give their son the “American Dream". "I was a mindless child that had an existential crisis in 7th grade. The anger and disgust of being skinny and ignorant fueled the desire for self improvement and finding oneself. Ever since then I’ve been striving for success, improvement, and ways I can make an impact."</p>
+        <p>In his free time, he studies anything that interests or benefits him, works out, plays video games, or spends time with the people he is close with.</p>
+        <p>John's end goal is to become a prominent figure known for significant impacts that supported humanities well-being.</p>
+
+    </body>
+</html>
+
+CSS CODE: -------->
+
+
+body {
+    text-align: center;
+}
+
+body {
+    background: #2D73B5;
+    background: -moz-radial-gradient(center, #2D73B5 0%, #0F87F7 0%, #1C568C 100%);
+    background: -webkit-radial-gradient(center, #2D73B5 0%, #0F87F7 0%, #1C568C 100%);
+    background: radial-gradient(ellipse at center, #2D73B5 0%, #0F87F7 0%, #1C568C 100%);
+}
+
+img {
+    width: 35%;
+    height: auto;
+    border: 8px inset #b3daff;
+}
+
+h1, p {
+    color: white;
+}
+
+h1 {font-family: Georgia, serif;
+    font-size: 25px;
+    letter-spacing: 3.6px;
+    color:  black;
+background: #FFFFFF;
+background: -moz-radial-gradient(center, #FFFFFF 0%, #DBDBDB 48%, #898989 100%);
+background: -webkit-radial-gradient(center, #FFFFFF 0%, #DBDBDB 48%, #898989 100%);
+background: radial-gradient(ellipse at center, #FFFFFF 0%, #DBDBDB 48%, #898989 100%);
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-box-shadow: 5px 5px 5px 5px #000000;
+    box-shadow: 4px 4px 10px 4px #000000; 
+}
+
+h2 {
+    font-family: Georgia, serif;
+    font-size: 25px;
+    letter-spacing: 3.6px;
+    color:  black;
+background: #FFFFFF;
+background: -moz-radial-gradient(center, #FFFFFF 0%, #DBDBDB 48%, #898989 100%);
+background: -webkit-radial-gradient(center, #FFFFFF 0%, #DBDBDB 48%, #898989 100%);
+background: radial-gradient(ellipse at center, #FFFFFF 0%, #DBDBDB 48%, #898989 100%);
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-box-shadow: 5px 5px 5px 5px #000000;
+    box-shadow: 4px 4px 10px 4px #000000;
+}
